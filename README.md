@@ -1,5 +1,4 @@
 # sudokusolver
-A sudoku solver written in Python.  GUI and backend undefined.
 
 **Project Title:**  Advanced Sudoku Techniques with Optimized Candidate Generation
 
